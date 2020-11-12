@@ -1,1 +1,7 @@
-# bakery-bootstrap
+# Bakery 
+
+# Used :
+- html
+- css
+- jquery 
+- bootstrap
